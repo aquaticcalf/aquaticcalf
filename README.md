@@ -1,33 +1,11 @@
 <h1 align="center">aquaticcalf</h1>
-<p align="center"> sam🥺</p>
+<p align="center">by sam</p>
 
-hey everyone 👋, welcome to my github. how are you doing? i hope everything is alright :)
+hey everyone , welcome to my github. how are you doing? i hope everything is alright :)
 
 ## about me
 
-i love making stuff and helping others make stuff. i really adore open source. i want to contribute to many open source projects and maybe even start my own one 😊
-
-## programming languages
-
-the following are the programming languages im learning :
-- javascript (medium)
-  - node js
-  - react js
-  - react native
-  - svelte js (beginner)
-- python (medium)
-  - pygame
-  - turtle
-- c (medium)
-- c++ (medium)
-- c# (medium)
-  - unity
-- html (advanced)
-- css (advanced)
-  - tailwind css
-  - bootstrap css
-  - w3 css
-- rust (beginner)
+i love making stuff and helping others make stuff. i really adore open source. i want to contribute to many open source projects and maybe even start my own one
 
 ## projects
 

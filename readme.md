@@ -1,11 +1,7 @@
 <h1 align="center">aquaticcalf</h1>
 <p align="center">by sam</p>
 
-hey everyone , welcome to my github. how are you doing? i hope everything is alright :)
-
-## about me
-
-i love making stuff and helping others make stuff. i really adore open source. i want to contribute to many open source projects and maybe even start my own one.
+hey everyone , welcome to my github
 
 ## projects
 

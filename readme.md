@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<table><tr><td>
+<table><tr><td align="center">
 
 i like boxes, so here is a box, a big box, a very good box, the best box ever
 

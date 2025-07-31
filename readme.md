@@ -1,12 +1,5 @@
 <div align="center">
-<details>
-<summary>why are you stalking me little bro</summary>
 
-<br>
+[join us to work on opensource projects @ nirbar.in](https://forms.gle/KEntAQQPApiamC7WA)
 
-you opened my profile like that was normal behavior...
-<br>
-
-you alright?
-</details>
 </div>

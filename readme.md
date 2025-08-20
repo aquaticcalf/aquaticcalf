@@ -1,5 +1,17 @@
 <div align="center">
 
-## hi!
+```
+
++ ----------------------- +
+| hi!                     |
+|                         |
+| i'm looking for a job   |
+|                         |
+| open to opportunities   |
+|                         |
+| aquaticcalf@proton.me   |
++ ----------------------- +
+
+```
 
 </div>

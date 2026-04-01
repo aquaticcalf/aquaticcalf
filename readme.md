@@ -2,6 +2,11 @@
 
 [nirvana](https://github.com/aquaticcalf/nirvana) - wayland compositor
 
+[plan](https://github.com/aquaticcalf/plan) - planner
+
+[mina](https://github.com/fishcareyolo/fishcareyolo) - fish disease detection pwa
+
+
 ### libraries
 
 [samcan](https://github.com/aquaticcalf/samcan) - canvas

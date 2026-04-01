@@ -1,3 +1,8 @@
-[samcan](https://github.com/aquaticcalf/samcan)
 
-[file-system-router](https://github.com/aquaticcalf/file-system-router)
+### libraries
+
+[samcan](https://github.com/aquaticcalf/samcan) - canvas
+
+[file-system-router](https://github.com/aquaticcalf/file-system-router) - file system router on top of react router
+
+[afterlog](https://github.com/aquaticcalf/afterlog) - wide event based framework agnostic logging library

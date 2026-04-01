@@ -4,6 +4,8 @@
 
 [plan](https://github.com/aquaticcalf/plan) - planner
 
+[multistream](https://github.com/aquaticcalf/multistream) - live stream to multiple platforms simultaneously
+
 [mina](https://github.com/fishcareyolo/fishcareyolo) - fish disease detection pwa
 
 

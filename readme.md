@@ -15,8 +15,10 @@
 
 [samcan](https://github.com/aquaticcalf/samcan) - canvas
 
-[file-system-router](https://github.com/aquaticcalf/file-system-router) - file system router on top of react router
+[sagent](https://github.com/aquaticcalf/sagent) - a simple runtime agnostic library for agenting
 
 [afterlog](https://github.com/aquaticcalf/afterlog) - wide event based framework agnostic logging library
+
+[file-system-router](https://github.com/aquaticcalf/file-system-router) - file system router on top of react router
 
 [tuitui](https://github.com/aquaticcalf/tuitui) - shadcn like react library for the terminal

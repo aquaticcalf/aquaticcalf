@@ -6,6 +6,8 @@
 
 [multistream](https://github.com/aquaticcalf/multistream) - live stream to multiple platforms simultaneously
 
+[certifychain](https://github.com/certifychain/certifychain) - blockchain based certification platform
+
 [mina](https://github.com/fishcareyolo/fishcareyolo) - fish disease detection pwa
 
 
